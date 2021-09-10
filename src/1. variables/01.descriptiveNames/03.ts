@@ -1,0 +1,1 @@
+const elapsedTimeInDays = 100;

@@ -1,0 +1,4 @@
+
+
+
+const next = randomGenerator.next();

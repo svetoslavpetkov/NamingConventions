@@ -1,0 +1,1 @@
+const elapsedTime = 100;
